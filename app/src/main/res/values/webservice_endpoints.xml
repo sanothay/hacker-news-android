@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="get_top_story_ids_method">topstories.json?print=pretty</string>
+    <string name="get_item_method">item/%s.json?print=pretty</string>
+    <string name="base_url">https://hacker-news.firebaseio.com/v0/</string>
+
+</resources>

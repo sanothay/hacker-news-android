@@ -1,0 +1,5 @@
+#org.springsource.ide.eclipse.gradle.core.preferences.GradleProjectPreferences
+#Sun May 10 15:47:05 ICT 2015
+build.family.org.gradle.tooling.model.eclipse.HierarchicalEclipseProject=;Android-SlideExpandableListView/library;app;materialList;
+org.springsource.ide.eclipse.gradle.linkedresources=
+org.springsource.ide.eclipse.gradle.rootprojectloc=

@@ -1,0 +1,2 @@
+include ':app', ':materialList', ':library'
+project(':library').projectDir = new File('Android-SlideExpandableListView/library')
